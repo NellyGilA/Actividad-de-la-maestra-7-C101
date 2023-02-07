@@ -1,2 +1,1 @@
-# Actividad-de-la-maestra-7-C101
-Actividad-de-la-maestra-7-C101 REFERENCIA COMPLETO con sonido, salto de línea
+# PRO-C101-Referencia de la maestra-Actividad adicional
